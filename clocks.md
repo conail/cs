@@ -13,12 +13,11 @@ They are beautifully printed with fade resistant inks, softly varnished, and the
 or &#8220;flying&#8221; around on the tip of the second hand
 The quartz movements are complete with a hanger and use one AA battery.
 
-<img src="images/humpty dumpty images/hdshepherdforwebsite.jpg" alt="Shepherd Humpty Dumpty">
+![Shepherd Humpty Dumpty](/images/clocks/hdshepherdforwebsite.jpg)
 Shepherd Humpty Dumpty with a rotating spoon.
-Modeled after the artist&#8217;s own grandpa!
-
+Modeled after the artist's own grandpa!
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="http://linaliberace.com/images/button_addtocart.gif" border="0" name="submit2" alt="Make payments with PayPal - it's fast, free and secure!">
+  <input type="submit" value="Add to Cart"/> 
   <input type="hidden" name="add" value="1">
   <input type="hidden" name="currency_code2" value="USD">
   <input type="hidden" name="cmd" value="_cart">
@@ -29,12 +28,11 @@ Modeled after the artist&#8217;s own grandpa!
   <input type="hidden" name="no_note" value="1">
 </form>
 
-<img src="images/humpty dumpty images/hdfancyboyforwebsite.jpg" width="300" height="300" alt="Fancy Boy HD">
-Fancy Boy Humpty Dumpty with a &#8220;flying&#8221; bee on the tip of the second hand.
+![Fancy Boy HD](/images/clocks/hdfancyboyforwebsite.jpg)
+Fancy Boy Humpty Dumpty with a 'flying' bee on the tip of the second hand.
 Fun for kids! Numbers are spelled out.
-
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="http://linaliberace.com/images/button_addtocart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+  <input type="submit" value="Add to Cart"/> 
   <input type="hidden" name="add" value="1">
   <input type="hidden" name="cmd" value="_cart">
   <input type="hidden" name="business" value="lina@linaliberace.com">
@@ -45,12 +43,11 @@ Fun for kids! Numbers are spelled out.
   <input type="hidden" name="currency_code" value="USD">
 </form>
 
-<img src="images/humpty dumpty images/hdbakerforwebsite.jpg" alt="Baker HD">
+![Baker HD](/images/clocks/hdbakerforwebsite.jpg)
 Baker  Humpty Dumpty with a &#8220;flying&#8221; eggshell on the end of the second hand.
 Great kitchen Clock.
-
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="http://linaliberace.com/images/button_addtocart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+  <input type="submit" value="Add to Cart"/> 
   <input type="hidden" name="add" value="1">
   <input type="hidden" name="cmd" value="_cart">
   <input type="hidden" name="business" value="lina@linaliberace.com">
@@ -61,12 +58,11 @@ Great kitchen Clock.
   <input type="hidden" name="currency_code" value="USD">
 </form>
 
-<img src="images/humpty dumpty images/hdlaughingforwebsite.jpg" alt="Laughing HD">
+![Laughing HD](/images/clocks/hdlaughingforwebsite.jpg)
 Laughing Humpty Dumpty with a big spinning bow tie.
 Cheer anybody up with this one!
-
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="http://linaliberace.com/images/button_addtocart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="submit" value="Add to Cart"/> 
   <input type="hidden" name="add" value="1">
   <input type="hidden" name="cmd" value="_cart">
   <input type="hidden" name="business" value="lina@linaliberace.com">
@@ -77,11 +73,11 @@ Cheer anybody up with this one!
   <input type="hidden" name="currency_code" value="USD">
 </form>
 
-<img src="images/humpty dumpty images/hdgardenerforwebsite.jpg" alt="Gardening HD">
+![Gardening HD](/images/clocks/hdgardenerforwebsite.jpg)
 Gardener Humpty Dumpty with a &#8220;flying&#8221; bee on the tip of the second hand.
 Nice gift for a gardening friend.
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="http://linaliberace.com/images/button_addtocart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="submit" value="Add to Cart"/> 
   <input type="hidden" name="add" value="1">
   <input type="hidden" name="cmd" value="_cart">
   <input type="hidden" name="business" value="lina@linaliberace.com">
@@ -92,11 +88,11 @@ Nice gift for a gardening friend.
   <input type="hidden" name="currency_code" value="USD">
 </form>
 
-<img src="images/humpty dumpty images/hdchefforwebsite.jpg" alt="Chef Humpty Dumpty"/>
+![Chef Humpty Dumpty](/images/clocks/hdchefforwebsite.jpg)
 Gourmet Chef Humpty Dumpty with a spinning bow tie.
 A perfect and unusual gift for the gourmet in your life.
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="http://linaliberace.com/images/button_addtocart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="submit" value="Add to Cart"/> 
   <input type="hidden" name="add" value="1">
   <input type="hidden" name="cmd" value="_cart">
   <input type="hidden" name="business" value="lina@linaliberace.com">
@@ -112,9 +108,9 @@ Price is $35 per clock (includes shipping)
 
 Virginia residents only will be charged 5% sales tax ($1.75 per clock).
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="submit" value="View Cart"/> 
   <input type="hidden" name="cmd" value="_cart">
   <input type="hidden" name="business" value="lina@linaliberace.com">
-  <input type="image" src="https://www.paypal.com/images/view_cart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
   <input type="hidden" name="display" value="1">
 </form>
 
@@ -124,5 +120,14 @@ Liberace Studio
 Humpty Dumpty Clocks
 2826 Chain Bridge Road<br>
 Vienna, VA 22181</address>
-<img src="images/logoForWebSmaller.png" alt="Liberace Studio Logo">
+![Liberace Studio Logo](/images/logoForWebSmaller.png)
 Liberace Studio, Vienna, VA
+
+
+
+
+
+
+
+
+
