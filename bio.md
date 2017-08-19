@@ -1,5 +1,6 @@
 ---
 title: Artist Biography
+layout: page
 ---
   
 Lina Liberace (formerly Lina Chesak) is an illustrator/fine artist living in Northern Virginia. Her colorful, whimsical images are well suited for editorial and institutional illustration as well as for children's books. Her preferred mediums are oil and watercolor with the addition of pencil or ink. Lina has illustrated books including "Polly Hopper's Pouch" written by Louise Bonnett-Rampersaud for Dutton Children's Books, and "Charlie Muffin&'s Miracle Mouse" written by Dick King-Smith for Crown Publishers.

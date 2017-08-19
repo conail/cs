@@ -2,6 +2,7 @@
 title: humptydumptypage.htm
 keywords: Humpty Dumpty clocks, Humpty Dumpty, Linabeans, Liberace Studio, nursery rhyme clock, Humpty Dumpty clock, humpty dumpty collectible, humpty dumpty wall clock, humpty dumpty illustration, illustrated clocks, gift clocks, Lina Chesak, Lina Liberace, Lina Chesak Liberace
 description: Whimsical Humpty Dumpty clocks illustrated and signed by children's book illustrator Lina Liberace. Lina has illustrated books such as &quot;Polly Hopper's Pouch&quot; and &quot;Charlie Muffin's Miracle Mouse.&quot;"polly hopper's pouch" and "charlie muffin miracle mouse."
+layout: page
 ---
 
 Get your own signed Humpty Dumpty clock!

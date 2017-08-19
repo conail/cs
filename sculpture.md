@@ -1,36 +1,49 @@
 ---
-title: sculptureTemp.htm
+title: Sculpture
 keywords: map illustration, illustrated maps, maps, Lina Chesak, Lina Liberace, sculpture, puppets, elephant, donkey, republican, democrat, Poe, Edgar Allen Poe, Lina Chesak-Liberace, map drawings
 description: Lina Chesak-Liberace's portfoio of illustrated stylized maps for clients such as National Geographic Traveler, Busch Gardens, and American Airlines.
+layout: page
 ---
 
-<img src="images/NavigationBarGreen.jpg"/>
-<img src="images/typeforwebpages/sculpture.jpg"/>
-I am building a sculpture porfolio. Updated page to come soon...
-'The Inflexibles' (with various backgounds)
-<img src="/sculpture/Elephant-Donkey-Sepia-grunge.jpg"/>
-<img src="/sculpture/capitol-building-_Snap.jpg"/>
-<img src="/sculpture/donkey-Elephant.jpg"/>
-<img src="/sculpture/elephCroppedGrayOpt.jpg"/>
-<img src="/sculpture/DonkCroppedBackOpt.jpg"/>
-'Poe and Friend'
+# 'The Inflexibles' (with various backgounds)
+
+![](/images/sculpture/Elephant-Donkey-Sepia-grunge.jpg)
+![](/images/sculpture/capitol-building-_Snap.jpg)
+![](/images/sculpture/donkey-Elephant.jpg)
+![](/images/sculpture/elephCroppedGrayOpt.jpg)
+![](/images/sculpture/DonkCroppedBackOpt.jpg)
+
+# 'Poe and Friend'
+
 <img src="/sculpture/PoeFInal.jpg"/>
 <img src="/sculpture/PoeSide.jpeg"/>
 <img src="/sculpture/Poe-whiteOpt.jpg"/>
-'Money Pig'
+
+# 'Money Pig'
+
 <img src="/sculpture/pig-money-left.jpg"/>
 <img src="/sculpture/pig-money-right.jpg"/>
-'Squash Guy'
+
+# 'Squash Guy'
+
 <img src="/sculpture/squash-stem-puppet.jpg" alt="Squash guy"/>
-'Mr and Mrs Owl' for the 4th Annual Middleburg Humane Foundation's Fluted Hoot Music Festival, Middleburg, VA
+
+# 'Mr and Mrs Owl' for the 4th Annual Middleburg Humane Foundation's Fluted Hoot Music Festival, Middleburg, VA
+
 <img src="/sculpture/Owls-left.jpg" alt="Owls"/>
-'Goblin'
+
+# 'Goblin'
+
 <img src="sculpture/goblin-for-website.jpg" alt="Goblin"/>
 <img src="sculpture/Goblin-from-left-website.jpg" alt="Goblin from left"/>
-'I'm Late'
+
+# 'I'm Late'
+
 <img src="sculpture/late1.jpg"/>
 <img src="sculpture/late2.jpg"/>
-Pig Baker
+
+# Pig Baker
+
 <img src="sculpture/pigForward.jpg"/>
 <img src="sculpture/pigRight.jpg"/>
 <img src="sculpture/pigBakerUnpainted.jpg"/>
@@ -58,16 +71,6 @@ Pig Baker
 <img src="/sculpture/dog.jpeg" alt="dog">
 <img src="/sculpture/chicken400.jpg" alt="chicken">
 <img src="/sculpture/Harlequin-Rabbit400.jpg" alt="rabbit">
-<a href="mainPage_still_life.htm">back to still life page</a>
-<nav>
-  <a href="editorial.html">Editorial</a>
-  <a href="childrens.html">Children's Books</a>
-  <a href="maps.html">Maps</a>
-  <a href="still_life.html">Still Life</a>
-  <a href="humpty_dumpty.html">Humpty Dumpty</a>
-  <a href="bio.html">Bio</a>
-  <a href="index.html">Home</a>
-</nav>
 
 
 

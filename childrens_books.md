@@ -2,18 +2,8 @@
 title: Children's Books
 description: Portfolio page showing Lina Chesak-Liberace's editorial and institutional illustrations for clients such as the Smithsonian Institution, Points of Light Foundation, and Procter and Gamble.
 keywords: editorial illustration, institutional illustration, Lina Chesak, Lina Liberace, Lina Chesak-Liberace
+layout: page
 ---
-
-[
-"Home",
-"Editorial/Institutional",
-"Children's Books",
-"Stylized Maps",
-"Still Life",
-"Humpty Dumpty Clocks",
-"Contact",
-"Biography"
-]
 
 pop! goes the weasel | Core Knowledge Foundation | monkeyandweasel-big.jpg
 Russian Hedgehog Puppet | book image | hedghogBig.jpg

@@ -2,6 +2,7 @@
 title: Editorial, Institutional
 description: Portfolio page showing Lina Chesak-Liberace's editorial and institutional illustrations for clients such as the Smithsonian Institution, Points of Light Foundation, and Procter and Gamble.
 keywords: editorial illustration, institutional illustration, Lina Chesak, Lina Liberace, Lina Chesak-Liberace
+layout: page
 ---
 
 reaching for stars | Bell Atlantic | reaching-for-star-big.jpg
