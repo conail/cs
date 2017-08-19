@@ -116,10 +116,12 @@ Virginia residents only will be charged 5% sales tax ($1.75 per clock).
 
 Clocks usually ship within 48 hour upon receipt of payment.
 Money order or certified check are also accepted if mailed to:
-Liberace Studio
-Humpty Dumpty Clocks
-2826 Chain Bridge Road<br>
-Vienna, VA 22181</address>
+<address>
+Liberace Studio<br/>
+Humpty Dumpty Clocks<br/>
+2826 Chain Bridge Road<br/>
+Vienna, VA 22181
+</address>
 ![Liberace Studio Logo](/images/logoForWebSmaller.png)
 Liberace Studio, Vienna, VA
 

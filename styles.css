@@ -1,17 +1,8 @@
-body { background: #F1F2C0; margin: 0; }
+body { background: #FFF; font: 1.2em/1.4em Faustina, serif; margin: 0; }
 h1, h2, h3 { color: #036; font-family: Ruthie, cursive; font-weight: normal; }
 
-header {}
-header a { color: #036; text-decoration: none; }
-header nav a { display: inline-block; padding: 0.5em; }
-
-footer { background: #111; color: #FFF; padding: 1em; }
-
-.AlanaMedium {
-  font: 400 normal 1em/1.4em ruthie;
-  color: #FAFDFA;
-}
-
-.TimesMedYellow {
-  font-family: "Times New Roman", Times, serif;
-}
+body > header {}
+body > header a { color: #036; text-decoration: none; }
+body > header nav a { display: inline-block; padding: 0.5em; }
+body > footer { background: #111; color: #FFF; padding: 1em; }
+body > article { width: 40em; }
