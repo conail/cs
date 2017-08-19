@@ -1,8 +1,10 @@
-body { background: #FFF; font: 1.2em/1.4em Faustina, serif; margin: 0; }
-h1, h2, h3 { color: #036; font-family: Ruthie, cursive; font-weight: normal; }
+body { background: #FFF; display: flex; font: 1.2em/1.4em Faustina, serif; margin: 0; }
+h1, h2, h3 { color: #036; font-family: 'Josefin Slab', serif; font-weight: normal; }
 
-body > header {}
-body > header a { color: #036; text-decoration: none; }
-body > header nav a { display: inline-block; padding: 0.5em; }
+body > header { background: #8FA68E; color: #FFF; padding: 1em; width: 12em; }
+body > header h1 { line-height: 1.1em; margin: 0.5em 0 0 0; }
+body > header p.subtitle { font-family: 'Josefin Slab'; }
+body > header a { color: #FFF; text-decoration: none; }
+body > header nav a { display: block; padding: 0.75em 0; }
 body > footer { background: #111; color: #FFF; padding: 1em; }
-body > article { width: 40em; }
+body > article { margin: 1em; width: 40em; }
