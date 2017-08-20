@@ -8,3 +8,5 @@ body > header a { color: #FFF; text-decoration: none; }
 body > header nav a { display: block; padding: 0.75em 0; }
 body > footer { background: #111; color: #FFF; padding: 1em; }
 body > article { margin: 1em; width: 40em; }
+
+article img { width: 100%; }
