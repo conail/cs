@@ -7,7 +7,8 @@ layout: page
 
 {% for i in site.data.still_life %}
   <div class="image">
-    <img src="/images/still_life/thumbs/{{ i.filename }}"/>
+    <img src="/images/still_life/thumbs/{{ i.filename }}" alt="{{ i.title }}"/>
+	<img src="/images/still_life/{{ i.filename }}" alt="{{ i.title }}"/>
 	<p>{{ i.title }}</p>
 	<p>{{ i.description }}</p>
   </div>
