@@ -5,16 +5,10 @@ description: Lina Chesak-Liberace's portfoio of illustrated stylized maps for cl
 layout: page
 ---
 
-Pumpkin | oil on panel, 12x12 | 01.jpg
-Red Bartlet with Marbles | oil on panel, 5x5 | 02.jpg
-Thrush | oil on panel, 8x10 | 03.jpg
-The Beet | Oil on panel, 8x10 | 04.jpg
-Currants | oil on panel, 4 1/2x9 | 05.jpg
-Nest and Feather | oil on panel, 10x12 | 06.jpg
-Zinnia in Jar | oil on panel, 3x5 | 07.jpg
-Pumpkin on Berry box | oil on panel, 3x5 | 08.jpg
-Three Ducks of the Apocalypse | oil on panel, 8x8 | 09.jpg
-Plum with marbles | oil on panel, 8x10 | 10.jpg
-Italian plums | oil on panel, 9x12 | 11.jpg
-Heirlooms | Oil on panel, 5x7 | 12.jpg
-
+{% for i in site.data.still_life %}
+  <div class="image">
+    <img src="/images/still_life/thumbs/{{ i.filename }}"/>
+	<p>{{ i.title }}</p>
+	<p>{{ i.description }}</p>
+  </div>
+{% endfor %}
